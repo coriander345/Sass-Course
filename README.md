@@ -171,3 +171,9 @@ Css
 
 Live Sass Compiler을 설치하면 번거롭게 매번 컴파일 할 필요없이 sass를 수정할 때마다 자동으로 컴파일된다.
 ![image](src/images/liveSass.png)
+
+---
+
+### Image
+
+![image](src/images/sass-page.png)
