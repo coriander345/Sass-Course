@@ -160,7 +160,14 @@ Css
 ```css
 .next {
   height: 0;
-  widht: 0;
+  width: 0;
   border-left-color: black;
 }
 ```
+
+---
+
+### Live Sass Compiler
+
+Live Sass Compiler을 설치하면 번거롭게 매번 컴파일 할 필요없이 sass를 수정할 때마다 자동으로 컴파일된다.
+![image](src/images/liveSass.png)
