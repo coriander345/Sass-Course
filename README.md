@@ -176,4 +176,4 @@ Live Sass Compiler을 설치하면 번거롭게 매번 컴파일 할 필요없�
 
 ### Image
 
-![image](src/images/sass-page.png)
+![image](src/images/newpage.png)
